@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raven
+# 👋 Hi, I'm Sinem
 
 🎮 **Game Developer | Unity & C#**
 
